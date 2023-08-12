@@ -1,0 +1,19 @@
+{
+    "name": "ariful/contact",
+    "description": "this will send email to user & store data.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ariful\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ariful491",
+            "email": "arifulhoque091@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
